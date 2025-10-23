@@ -7,7 +7,7 @@
 	"publisher": "lfm",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/lfmunoz/vscode-makefile-term"
+		"url": "https://github.com/es6kr/vscode-makefile-term"
 	},
 	"engines": {
 		"vscode": "^1.65.0"
